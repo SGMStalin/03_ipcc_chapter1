@@ -153,3 +153,12 @@ SyR: Synthesis Report
 :::
 
 
+## Incremento de CO2
+
+![Cambio de las concentraciones atmosféricas de CO2](images/co2.png){#fig-co2}
+
+
+## Contexto Político
+
+
+
