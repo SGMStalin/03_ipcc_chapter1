@@ -4,14 +4,14 @@
     "href": "FCM_IPCC-Ch1.html#índice",
     "title": "Chapter 1: Framing, Context and Methods",
     "section": "Índice",
-    "text": "Índice\n\n\nContexto\nDónde estamos ahora?\nCómo hemos llegado hasta aquí: El contexto científico\nFundamentos y conceptos\nDesarrollos mayores y sus implicaciones\nDimensiones de integración: Escenarios, Niveles de calentamiento y Emisiones de Carbono\nConclusiones"
+    "text": "Índice\n\n\nContexto\nDónde estamos ahora?\nCómo hemos llegado hasta aquí: El contexto científico\nFundamentos y conceptos\nDesarrollos\nDimensiones de integración: Escenarios, Niveles de calentamiento y Emisiones de Carbono\nComentarios finales"
   },
   {
     "objectID": "FCM_IPCC-Ch1.html#conceptos",
     "href": "FCM_IPCC-Ch1.html#conceptos",
     "title": "Chapter 1: Framing, Context and Methods",
     "section": "Conceptos",
-    "text": "Conceptos\n\n\nGHG: Green House Gases.\nGMST: Global Mean Surface Temperature (1850-1900).\nGSAT: Global Surface Annual Temperature.\nSSP: Socio-economic Pathways.\nLIG: Last Interglacial\nLGM: Last Glacial Maximum\nMH: Mid-Holocene"
+    "text": "Conceptos\n\n\nGHG: Green House Gases.\nGMST: Global Mean Surface Temperature (1850-1900). 1\nGSAT: Global Surface Air Temperature. 2\nSSP: Socio-economic Pathways.\nLIG: Last Interglacial\nLGM: Last Glacial Maximum\nMH: Mid-Holocene\nRF: Radiative Forcing\nCMIP: Coupled Model Intercomparison Project\nECS: Equilibrium Climate Sensitivity 3."
   },
   {
     "objectID": "FCM_IPCC-Ch1.html#section",
@@ -54,5 +54,124 @@
     "title": "Chapter 1: Framing, Context and Methods",
     "section": "2.5 Contexto Político",
     "text": "2.5 Contexto Político\n\n\n\nEntidades que han ayudado a incrementar el reconocimiento de que estamos teniendo un cambio climático.\n\n\n\n\nConvención Marco de las Naciones Unidas sobre el Cambio Climático: Reducir emisiones de GHGs.\nEl acuerdo de París: Limitar la temperatura a +2°C.\nDiálogo estructurado de expertos: Aporte científico en metodologías y avances tecnológicos.\nLos objetivos de desarrollo sostenible: Un mundo sostenible y resiliente.\nMarco de Sendai para la reducción del riesgo de desastres: Reducir los riesgos causados por el ser humano (CC)\nPlataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas: Conservación y uso sostenible de los ecosistemas.\n\n\n\n\n\nEs prácticamente imposible que no se supere la variación de 1.5°C de GMST.\n\n\n\n\n\nProblema de multidisciplinaridad - Desacuerdo entre estudios: falsas alarmas - Datos utilizados. Vocabulario utilizado: Palabras negativas Definición de conceptos"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#datos-actuales",
+    "href": "FCM_IPCC-Ch1.html#datos-actuales",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "3.1 Datos actuales",
+    "text": "3.1 Datos actuales\n\nFigura 6. Esquema de la serie temporal de los datos climáticos.\nMarked differences remain in the temperature trends from surface, radiosonde, and satellite observations"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#datos-paleoclimáticos",
+    "href": "FCM_IPCC-Ch1.html#datos-paleoclimáticos",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "3.2 Datos paleoclimáticos",
+    "text": "3.2 Datos paleoclimáticos\n\nFigura 7. Esquema de la serie temporal de los datos climáticos."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#forzamiento-antropogénico",
+    "href": "FCM_IPCC-Ch1.html#forzamiento-antropogénico",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "3.3 Forzamiento antropogénico",
+    "text": "3.3 Forzamiento antropogénico\n\nHay que entender el forzamiento natural para atribuir el forzamiento antropogénico.\n\n\n\n\n\n\nForzamientos naturales\n\n\n\nGHGs (Vapor de agua ~ 75%)\nCambios orbitales\nRadiación solar\nPosición continental\nGases volcánicos\nMeteorización de rocas silicatadas\nAlmacenamiento de carbono en rocas.\n… Y en general diferentes estructuras de circulación global (i.e. Coriolisis, ENSO)\n\n\n\n\n\n\n\n\n\n\n\n\n\nForzamiento humano\n\n\n\nCO2 incremento por los combustibles fósiles.\nLos peores GHGs (CO2, Metano, &lt;&lt; H2O).\nLos aerosoles reducen la temperatura (~0.9)\nEfectos de la deforestación (CO2).\nLos humanos somos los causantes\n\n\n\n\n\n\n\nwater vapor has a lower residence time\nThe net change in the energy budget at the top of the atmosphere, resulting from a change in one or more such drivers, is termed ‘radiative forcing’\nMIPs prescribe standardized experiment designs, time periods, output variables or observational reference data to facilitate direct comparison of model results.\nThere is a special issue of the journal Geoscientific Model Development on CMIP6, with 28 published papers covering the overall project and the specific MIPs."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#proyecciones-ecs---gcm---tcr",
+    "href": "FCM_IPCC-Ch1.html#proyecciones-ecs---gcm---tcr",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "3.4 Proyecciones ECS - GCM - TCR",
+    "text": "3.4 Proyecciones ECS - GCM - TCR\n\n\n\n\n\n\n\n\n\n\n\nIncertidumbres de las proyecciones\n\n\n\nVariación en las emisiones de GHGs y aerosoles\nLand use\nUso de energía\nActividades humanas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportante\n\n\nLas cantidades de CO2 causarán cambios en el sistema incluso en milenios.\nEl cambio es irreversible (escalas humanas), incluso si las emisiones son cero."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#cómo-se-tiene-certeza-de-las-proyecciones",
+    "href": "FCM_IPCC-Ch1.html#cómo-se-tiene-certeza-de-las-proyecciones",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "3.5 Cómo se tiene certeza de las proyecciones?",
+    "text": "3.5 Cómo se tiene certeza de las proyecciones?\n\nDesde el 90 se han realizado proyecciones (Simulado), se puede comparar con el clima actual (Observado)\n\n\n\n\n\nFigura 8. Proyecciones climáticas pasadas con los valores observados\n\n\n\n\n\nLimitar el cambio a 1.5 °C\n\nReducir un 45% las emisiones de CO2 para el 2030.\nEmisiones cercanas a 0 en el 2050.\n\nLimitar el cambio a 2 °C\n\nReducir un 25% las emisiones de CO2 para el 2050.\nEmisiones cercanas a 0 en el 2070."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#anomalías",
+    "href": "FCM_IPCC-Ch1.html#anomalías",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "4.1 Anomalías",
+    "text": "4.1 Anomalías\n\nDiferencia relativa comparado con una línea base.\n\n\n\n\n\nFigura 9. Las anomalías nos permiten comparar entre los resultados de los modelos y las observaciones.\n\n\n\n\nnear term (2021–2040), mid-term (2041–2060) and long-term (2081–2100) and centuries to millenial in past climate."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#emergence-of-a-climate-signal",
+    "href": "FCM_IPCC-Ch1.html#emergence-of-a-climate-signal",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "4.2 Emergence of a climate signal",
+    "text": "4.2 Emergence of a climate signal\n\nSignal Noise Ratio (S/N): El cambio es mayor a la amplitud natural (S/N&gt;2).\n\n\n\n\n\nAs in Figure 1.14, the signal of temperature change is often smaller in tropical countries, but their lower amplitude of variability means they may experience the effects of climate change earlier than the mid-latitudes."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#incertidumbres",
+    "href": "FCM_IPCC-Ch1.html#incertidumbres",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "4.3 Incertidumbres",
+    "text": "4.3 Incertidumbres\n\n\nEnsemble members take into account radiative forcings (needs calibration)"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#cambios-abruptos-tipping-points-y-sorpresas",
+    "href": "FCM_IPCC-Ch1.html#cambios-abruptos-tipping-points-y-sorpresas",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "4.4 Cambios abruptos, Tipping Points y Sorpresas",
+    "text": "4.4 Cambios abruptos, Tipping Points y Sorpresas\n\n\n\nCambio que se da más rápido que la tasa de cambio histórica.\n\n\n\n\n\n\nUmbral crítico en el cual, pasado este el sistema se reorganiza.\n\n\n\n\n\n\nEventos poco probables pero muy conocidos.\n\n\n\n\nFigura 10. Ilustación de dos tipping points.\nAn ‘abrupt change’ is defined in this report as a change that takes place substantially faster than the rate of change in the recent history of the affected component of a  system (Glossary)."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#section-1",
+    "href": "FCM_IPCC-Ch1.html#section-1",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "",
+    "text": "Figura 11. Resolución de los componentes atmosférico y oceánico de los modelos climáticos globales participantes en CMIP5, CMIP6 y HighResMIP: (a, b) resolución horizontal (km), y (c, d) número de niveles verticales"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#section-2",
+    "href": "FCM_IPCC-Ch1.html#section-2",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "",
+    "text": "Figura 12. Mapa mundial que muestra la creciente diversidad de centros de modelización que contribuyen a CMIP y CORDEX."
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#shared-socio-economic-pathways",
+    "href": "FCM_IPCC-Ch1.html#shared-socio-economic-pathways",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "6.1 Shared Socio-economic Pathways",
+    "text": "6.1 Shared Socio-economic Pathways\n\nDescribe las tendencias de la evolución humana en el siglo XXI.\n\n\n\n\n\nIncluye:\n\n\n\nPoblación\nProducto interno bruto\nUrbanización\n\nNo toma en cuenta cambio climático ni nuevas políticas.\n\n\n\n\n\n\nA scenario is a description of how the future may develop, based on a  coherent and internally consistent set of assumptions about key drivers including demography, economic processes, technological innovation, governance, lifestyles, and relationships among these driving forces"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#ssp-y-representative-concentration-pathways-rcps",
+    "href": "FCM_IPCC-Ch1.html#ssp-y-representative-concentration-pathways-rcps",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "6.2 SSP y Representative Concentration Pathways (RCPs)",
+    "text": "6.2 SSP y Representative Concentration Pathways (RCPs)"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#ssp-y-representative-concentration-pathways-rcps-1",
+    "href": "FCM_IPCC-Ch1.html#ssp-y-representative-concentration-pathways-rcps-1",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "6.3 SSP y Representative Concentration Pathways (RCPs)",
+    "text": "6.3 SSP y Representative Concentration Pathways (RCPs)\nSSPX - Y y RCP-Y. Y se refiere a la fuerza radiativa para el 2100 (e.g. SSP5-8.5 y RCP-8.5 RF=8.5 Wm^2)"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#emisiones-acumuladas-de-co2",
+    "href": "FCM_IPCC-Ch1.html#emisiones-acumuladas-de-co2",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "6.4 Emisiones acumuladas de CO2",
+    "text": "6.4 Emisiones acumuladas de CO2"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#comentarios-finales",
+    "href": "FCM_IPCC-Ch1.html#comentarios-finales",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "6.5 Comentarios finales",
+    "text": "6.5 Comentarios finales\n\nLa literatura científica sobre cambio climático ha incrementado considerablemente (duplica / 5años).\n\nAnalizar toda la literatura es un reto\nEl lenguaje de la literatura\n\nVacío de datos en la época preindustrial dificula la elección de la línea base y su valor.\nNo hay datos suficientes para una línea base de la criósfera y el océano.\nLos escenarios no pueden describir todo el comportamiento del planeta (e.g. erupciones volcánicas.)"
+  },
+  {
+    "objectID": "FCM_IPCC-Ch1.html#footnotes",
+    "href": "FCM_IPCC-Ch1.html#footnotes",
+    "title": "Chapter 1: Framing, Context and Methods",
+    "section": "Notas",
+    "text": "Notas\n\n\nLand surface temperature and sea surface temperature\nSurface air temperature over land, ice and ocean\nCalentamiento de GSAT debido al doble de emisiones de CO2, después de alcanzar el equilibrio."
   }
 ]
