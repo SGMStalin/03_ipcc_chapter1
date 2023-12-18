@@ -1,3 +1,8 @@
+/*-- scss:defaults --*/
+$theme-blue: #1481d9;
+$theme-red: #e74c52;
+$theme-orange: #fba95d;
+
 
 /*-- scss:rules --*/
 
@@ -18,4 +23,19 @@
   height: 100% !important;
   width: auto !important;
   color: $body-color !important;
+}
+
+.blue {
+  color: $theme-blue;
+  font-weight: bold;
+}
+
+.red {
+  color: $theme-red;
+  font-weight: bold;
+}
+
+.orange {
+  color: $theme-orange;
+  font-weight: bold;
 }

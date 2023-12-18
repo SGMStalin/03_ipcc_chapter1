@@ -37,9 +37,9 @@ css: style.css
 1. Dónde estamos ahora?
 1. Cómo hemos llegado hasta aquí: El contexto científico
 1. Fundamentos y conceptos
-1. Desarrollos mayores y sus implicaciones
+1. Desarrollos
 1. Dimensiones de integración: Escenarios, Niveles de calentamiento y Emisiones de Carbono
-1. Conclusiones
+1. Comentarios finales
 
 :::
 
@@ -47,12 +47,15 @@ css: style.css
 
 ::: {.nonincremental}
 - GHG: Green House Gases.
-- GMST: Global Mean Surface Temperature (1850-1900).
-- GSAT: Global Surface Annual Temperature.
+- GMST: Global Mean Surface Temperature (1850-1900). ^[Land surface temperature and sea surface temperature]
+- GSAT: Global Surface Air Temperature. ^[Surface air temperature over land, ice and ocean]
 - SSP: Socio-economic Pathways.
 - LIG: Last Interglacial
 - LGM: Last Glacial Maximum
 - MH: Mid-Holocene
+- RF: _Radiative Forcing_
+- CMIP: Coupled Model Intercomparison Project
+- ECS: Equilibrium Climate Sensitivity ^[Calentamiento de GSAT debido al doble de emisiones de CO~2~, después de alcanzar el equilibrio.].
 :::
 
 # Contexto {transition="zoom"}
@@ -268,4 +271,303 @@ Definición de conceptos
 
 _La base científica de cómo se han conseguido los resultados_
 
+## Datos actuales
+
+![Esquema de la serie temporal de los datos climáticos.](images/present_obs.png){#fig-presobs}
+
+::: {.notes}
+Marked differences remain in the temperature trends from surface, radiosonde, and satellite observations
+
+:::
+
+
+## Datos paleoclimáticos
+
+![Esquema de la serie temporal de los datos climáticos.](images/pale_obs.png){#fig-paleobs}
+
+
+## Forzamiento antropogénico
+
+> Hay que entender el forzamiento natural para atribuir el forzamiento antropogénico.
+
+
+::: {.r-stack}
+
+::: {.fragment .fade-in-then-out .nonincremental}
+::: {.callout-tip icon=false}
+### Forzamientos naturales
+
+- GHGs (Vapor de agua ~ 75%)
+- Cambios orbitales
+- Radiación solar
+- Posición continental
+- Gases volcánicos
+- Meteorización de rocas silicatadas
+- Almacenamiento de carbono en rocas.
+- ... Y en general diferentes estructuras de circulación global (i.e. Coriolisis, ENSO)
+:::
+:::
+
+![](images/sil_weathering.png){.fragment .fade-in-then-out .center width="700"}
+
+![](images/human-and-natural-influences.gif){.fragment .fade-in-then-out .center}
+
+![](images/Evolution-of-climate-models-final.jpg){.fragment .fade-in-then-out .center}
+
+
+![](images/cmip6.png){.fragment .fade-in-then-out width="600"}
+
+::: {.fragment .nonincremental}
+::: {.callout-important icon=false}
+### Forzamiento humano
+
+- CO~2~ incremento por los combustibles fósiles.
+- Los peores GHGs (CO~2~, Metano, << H~2~O).
+- Los aerosoles reducen la temperatura (~0.9)
+- Efectos de la deforestación (CO~2~).
+
+- _**Los humanos somos los causantes**_
+:::
+:::
+
+:::
+
+
+
+::: {.notes}
+water vapor has a lower residence time
+
+The net change in the energy budget at the top of the atmosphere, resulting from a change in one or more such drivers, is termed ‘radiative forcing’
+
+MIPs prescribe standardized experiment designs, time periods, output variables or observational reference data to facilitate direct comparison of model results.
+
+There is a special issue of the journal Geoscientific Model Development on CMIP6, with 28 published papers covering the overall project and the specific MIPs.
+:::
+
+
+## Proyecciones ECS - GCM - TCR
+
+<!-- ::: {.nonincremental} -->
+<!-- ::: {.callout-note appearance="minimal"} -->
+<!-- Las proyecciones climáticas se basan principalmente en la variación de los GHGs: -->
+
+<!-- - Continua el curso actual de emisiones de GHGs -->
+<!-- - Respuestas socio-económicas para limitar las emisiones -->
+<!-- ::: -->
+<!-- ::: -->
+
+::: {.fragment .nonincremental}
+::: {.callout-important icon=false}
+
+### Incertidumbres de las proyecciones
+
+- Variación en las emisiones de GHGs y aerosoles
+- Land use
+- Uso de energía
+- Actividades humanas
+:::
+:::
+
+
+::: {.fragment .fade-in-then-out}
+
+![](images/tab_ecs.png){.absolute top=55 left=20}
+
+::: {style="border-style: dashed; border-width: 2px; border-color: red; border-radius:5px; width: 180px; height: 70px;".absolute top=570 left=440}
+:::
+
+:::
+
+::: {.fragment .fade-in-then-out .nonincremental}
+::: {.callout-important icon=false}
+
+Las cantidades de CO~2~ causarán cambios en el sistema incluso en milenios.
+
+**El cambio es irreversible (escalas humanas), incluso si las emisiones son cero.**
+
+:::
+:::
+
+
+## Cómo se tiene certeza de las proyecciones?
+
+> Desde el 90 se han realizado proyecciones (Simulado), se puede comparar con el clima actual (Observado)
+
+::: {.fragment .fade-in-then-out}
+
+![Proyecciones climáticas pasadas con los valores observados](images/sim-obs-gsmt.png){#fig-os width=700}
+
+:::
+
+::: {.nonincremental}
+
+::: {.fragment .absolute top=150 left=380}
+
+**Limitar el cambio a 1.5 °C**
+
+- Reducir un 45% las emisiones de CO~2~ para el 2030.
+- Emisiones cercanas a 0 en el 2050.
+
+
+**Limitar el cambio a 2 °C**
+
+- Reducir un 25% las emisiones de CO~2~ para el 2050.
+- Emisiones cercanas a 0 en el 2070.
+
+:::
+:::
+
+
+# Conceptos
+
+## Anomalías
+
+> Diferencia relativa comparado con una línea base. 
+
+::: {.fragment .absolute top=0 left=50}
+![Las anomalías nos permiten comparar entre los resultados de los modelos y las observaciones.](images/anomalies.png){#fig-anomalies height=650}
+
+:::
+
+::: {.notes}
+near term (2021–2040), mid-term (2041–2060) and long-term (2081–2100) and centuries to millenial in past climate.
+:::
+
+
+## Emergence of a climate signal
+
+> Signal Noise Ratio (S/N): El cambio es mayor a la amplitud natural (S/N>2).
+
+![](images/emergence.png){width=750}
+
+![](images/emer_na.png){.fragment .absolute top=320 left=300 width=200}
+
+![](images/emer_sa.png){.fragment .absolute top=560 left=300 width=200}
+
+
+::: {.notes}
+As in Figure 1.14, the signal of temperature change is often smaller in tropical countries, but their lower amplitude of variability means they may experience the effects of climate change earlier than the mid-latitudes.
+
+:::
+
+## Incertidumbres
+
+![](images/uncertinties.png)
+
+
+::: {.notes}
+
+Ensemble members take into account radiative forcings (needs calibration)
+
+:::
+
+
+
+## [Cambios abruptos]{.blue}, [Tipping Points]{.orange} y [Sorpresas]{.red}
+
+::: {.callout-note appearance="minimal"}
+
+Cambio que se da más rápido que la tasa de cambio histórica.
+
+:::
+
+::: {.callout-warning appearance="minimal"}
+
+Umbral crítico en el cual, pasado este el sistema se reorganiza.
+
+:::
+
+
+::: {.callout-important appearance="minimal"}
+
+Eventos poco probables pero muy conocidos.
+
+:::
+
+![Ilustación de dos tipping points.](images/tipping.png){#fig-tipping width=600}
+
+
+::: {.notes}
+An ‘abrupt change’ is defined in this report as a change that takes place substantially faster than the rate of change in the recent history of the affected component of a  system (Glossary).
+:::
+
+# Desarrollos mayores y sus implicaciones
+
+## {.unnumbered}
+
+![Resolución de los componentes atmosférico y oceánico de los modelos climáticos globales participantes en CMIP5, CMIP6 y HighResMIP: (a, b) resolución horizontal (km), y (c, d) número de niveles verticales](images/res_ar6.png){#fig-res}
+
+
+## {.unnumbered}
+
+![Mapa mundial que muestra la creciente diversidad de centros de modelización que contribuyen a CMIP y CORDEX.](images/climatic_modellers.png){#fig-climmodellers}
+
+
+# Dimensiones de integración: Escenarios, Calentamiento y Carbono
+
+
+## Shared Socio-economic Pathways
+
+> Describe las tendencias de la evolución humana en el siglo XXI.
+
+
+::: {.fragment .nonincremental}
+::: {.callout-important icon=false}
+
+### Incluye:
+
+- Población
+- Producto interno bruto
+- Urbanización
+
+***No toma en cuenta cambio climático ni nuevas políticas.***
+
+:::
+:::
+
+![](images/SSP.png){.fragment}
+
+::: {.notes}
+
+A scenario is a description of how the future may develop, based on a  coherent and internally consistent set of assumptions about key drivers including demography, economic processes, technological innovation, governance, lifestyles, and relationships among these driving forces
+
+:::
+
+## SSP y Representative Concentration Pathways (RCPs)
+
+![](images/ssp_workproc.png)
+
+## SSP y Representative Concentration Pathways (RCPs)
+
+SSPX - Y y RCP-Y. Y se refiere a la fuerza radiativa para el 2100 (e.g. SSP5-8.5 y RCP-8.5 RF=8.5 Wm^2)
+
+::: {.r-stack}
+
+![](images/ssp_rcp.png){.fragment}
+
+
+![](images/emisiones_ssp_rcp.png){.fragment}
+
+:::
+
+## Emisiones acumuladas de CO~2~
+
+![](images/cum_co2.png)
+
+
+## Comentarios finales
+
+- La literatura científica sobre cambio climático ha incrementado considerablemente (duplica / 5años).
+    + Analizar toda la literatura es un reto
+    + El lenguaje de la literatura
+
+- Vacío de datos en la época preindustrial dificula la elección de la línea base y su valor.
+
+- No hay datos suficientes para una línea base de la criósfera y el océano.
+
+- Los escenarios no pueden describir todo el comportamiento del planeta (e.g. erupciones volcánicas.)
+
+
+
+# Gracias {background-image="images/thanks.png" background-opacity=0.5 .unnumbered}
 
